@@ -29,6 +29,14 @@
         "videos"
       ]
     },
+    "gallery": {
+      "type": "media",
+      "multiple": true,
+      "required": false,
+      "allowedTypes": [
+        "images"
+      ]
+    },
     "description": {
       "type": "blocks"
     }
